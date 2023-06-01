@@ -86,7 +86,7 @@ To get the final NPS score, you take the number of promoters, subtract the numbe
 **CONCLUSION and RECOMMENDATION**
 Which courses should be improved?
 
-While it's safe to say that DQ is doing a brilliant Job with the courses content as students generally like the lessons and are enthused to finish them. However some courses needs to be looked into. Courses **9,58,20,100 87** as they are courses with the worst NPS score (-100) and lessons with low completion rate (lessons 499 and 311 in courses 87 and 58 respectively).
+While it's safe to say that DQ is doing a brilliant Job with the courses content as students generally like the lessons and are enthused to finish them. However some courses needs to be looked into. Courses **9,58,20,100 87** as they are courses with the worst NPS score (-100) and lessons with low completion rate (lessons 499 and 311 in courses 87 and 58 respectively). I'd also reommend that maybe the length of these courses or the difficulty level could be ajusted as these could be what is frustrating learners.
 
 ![Screenshot_20230419-205853](https://user-images.githubusercontent.com/101079280/233186393-d53521a7-8df4-42b9-ab19-7e07350cc427.png)
 
